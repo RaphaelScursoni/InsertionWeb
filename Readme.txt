@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Bootslander
-Template URL: https://bootstrapmade.com/bootslander-free-bootstrap-landing-page-template/
-Author: BootstrapMade.com
+Name: Insertion Web - Digital Marketing
+URL: https://
+Author: Raphael Scursoni & Guilherme Gersony
 License: https://bootstrapmade.com/license/
