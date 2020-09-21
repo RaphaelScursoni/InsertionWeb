@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Thanks for visit our website!
 
 Name: Insertion Web - Digital Marketing
 URL: https://
